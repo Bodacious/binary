@@ -1,0 +1,2 @@
+class BinaryError < StandardError
+end
